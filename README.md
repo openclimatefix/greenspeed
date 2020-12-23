@@ -39,9 +39,9 @@ Intermittent, but regular jobs like this are a really good fit for GitHub Action
 
 ## How to Use It
 
-- Fork the repo
-- Change the URL that sitespeed is pointed at, and if necessary tweak budget settings for performance, carbon emissions, accessibility
-- Activate GitHub Actions for your new repo
+1. Fork the repo
+2. Change the URL that sitespeed is pointed at (in `package.json`), and if necessary tweak budget settings for performance, carbon emissions, accessibility
+3. Activate GitHub Actions for your new repo
 
 That's it.
 
