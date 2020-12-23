@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "sitespeed-check": "sitespeed.io https://thegreenwebfoundation.org/ --config ./config.json"
+    "sitespeed-check": "sitespeed.io https://openclimatefix.org/ --config ./config.json"
   },
   "author": "Chris Adams",
   "license": "Apache-2.0",
